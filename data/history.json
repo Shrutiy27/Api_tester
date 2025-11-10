@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-11-10 12:34:42",
+    "method": "POST",
+    "url": "https://httpbin.org/get",
+    "request_headers": {},
+    "request_body": "",
+    "status": 405,
+    "response_headers": {
+      "Date": "Mon, 10 Nov 2025 07:04:39 GMT",
+      "Content-Type": "text/html",
+      "Content-Length": "178",
+      "Connection": "keep-alive",
+      "Server": "gunicorn/19.9.0",
+      "Allow": "GET, OPTIONS, HEAD",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Credentials": "true"
+    },
+    "response_body": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3.2 Final//EN\">\n<title>405 Method Not Allowed</title>\n<h1>Method Not Allowed</h1>\n<p>The method is not allowed for the requested URL.</p>\n",
+    "elapsed": 2.211
+  }
+]
