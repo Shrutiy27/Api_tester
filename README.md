@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2becc2c-1cf8-4739-9623-049b5291feb4" /># 🚀K API Tester – A Tkinter-Based Desktop App for API Testing
+# 🚀K API Tester – A Tkinter-Based Desktop App for API Testing
 
 The **K API Tester** is a lightweight, user-friendly desktop application built using **Python’s Tkinter** library.  
 It allows you to send and test REST API requests directly from your computer — no browser extensions or heavy tools like Postman required.
@@ -198,7 +198,7 @@ API-Tester/
 📨 POST Method Example
 
 <p align="center">
-  
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2becc2c-1cf8-4739-9623-049b5291feb4" />
 </p>
 ---
 
